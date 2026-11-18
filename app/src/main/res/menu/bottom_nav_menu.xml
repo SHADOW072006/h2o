@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_dashboard"
+        android:icon="@drawable/ic_shield"
+        android:title="@string/nav_dashboard" />
+    <item
+        android:id="@+id/menu_password"
+        android:icon="@drawable/ic_key"
+        android:title="@string/nav_password" />
+    <item
+        android:id="@+id/menu_url"
+        android:icon="@drawable/ic_link"
+        android:title="@string/nav_url" />
+    <item
+        android:id="@+id/menu_quiz"
+        android:icon="@drawable/ic_quiz"
+        android:title="@string/nav_quiz" />
+    <item
+        android:id="@+id/menu_tips"
+        android:icon="@drawable/ic_tips"
+        android:title="@string/nav_tips" />
+</menu>

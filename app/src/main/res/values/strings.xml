@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CyberShield</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_password">Password</string>
+    <string name="nav_url">URL Scan</string>
+    <string name="nav_quiz">Quiz</string>
+    <string name="nav_tips">Tips &amp; Alerts</string>
+</resources>

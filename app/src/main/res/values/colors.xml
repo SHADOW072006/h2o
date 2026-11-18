@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- CyberShield Brand Colors -->
+    <color name="primary">#0D47A1</color>
+    <color name="primary_variant">#002171</color>
+    <color name="secondary">#00B4D8</color>
+    <color name="secondary_dark">#0077B6</color>
+    <color name="accent_cyan">#00F5D4</color>
+
+    <!-- Background and Surfaces -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#1A1A24</color>
+    <color name="text_secondary">#666B7A</color>
+    <color name="divider_color">#E0E4EC</color>
+
+    <!-- Security Status Colors -->
+    <color name="status_safe">#2E7D32</color>
+    <color name="status_safe_bg">#E8F5E9</color>
+    <color name="status_warning">#EF6C00</color>
+    <color name="status_warning_bg">#FFF3E0</color>
+    <color name="status_danger">#C62828</color>
+    <color name="status_danger_bg">#FFEBEE</color>
+    <color name="status_neutral">#546E7A</color>
+    <color name="status_neutral_bg">#ECEFF1</color>
+</resources>
